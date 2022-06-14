@@ -1,7 +1,7 @@
 # Bannière SESI
 ## Crédit : Paul KLING (https://github.com/Oxlai)
 
-La bannière du master SESI, si vous vouls l'avoir sur votre machine perso !  <br/>
+La bannière du master SESI, si vous voulez l'avoir sur votre machine perso !  <br/>
   <br/>
 Pour l'utiliser :  <br/>
 1 - Ouvrir un terminal <br/>
